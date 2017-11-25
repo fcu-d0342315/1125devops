@@ -19,3 +19,4 @@ func TestDiv(t *testing.T) {
        if result != 2 {
                t.Errorf("should be 4 but %d", result)
        }
+}
